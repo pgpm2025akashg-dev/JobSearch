@@ -1,0 +1,8 @@
+jobs.db
+drafts/
+digest/
+profile.md
+inbox/*.txt
+.streamlit/secrets.toml
+__pycache__/
+.env
